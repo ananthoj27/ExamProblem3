@@ -1,0 +1,22 @@
+h1{
+  color: brown;
+  text-align: center;
+  font-size: 2em;
+  font-family: Mistral;
+}
+
+h2{
+  color: darkolivegreen;
+  text-align: center;
+  font-family: Elephant;
+
+}
+
+p{
+  text-align: center;
+}
+
+.box1{
+  border: 1px solid darkslateblue;
+  text-align: center;
+}
